@@ -1,0 +1,2 @@
+# Photosign
+The program takes a photo through a webcam, using the library AviCap32.dll. You can use any web camera, as well as if there are several of them, then choose from the list from which camera you want to take a picture. The sizes of the images are selected via a drop-down list, the data for which is located in the ini file. The function of selecting the photo area by moving the aiming frame is implemented. The control of the output of the frame beyond the image area is also implemented. The photo is saved in jpg format, there is an opportunity to make a b/w photo.
