@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.511,C:\Users\ScaLseR.GDSK\Documents\RAD Studio\Projects\Project1.dproj=F:\project\webcam\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.790,F:\project\webcam\opFRfl.dfm=F:\project\webcam\ofUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.616,=F:\project\webcam\CamCaptureUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.633,=F:\project\webcam\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.063,=F:\project\webcam\wgssSTU_TLB.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.549,=F:\project\webcam\AviCap32Unit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.055,F:\project\webcam\Unit1.pas=F:\project\webcam\opFRfl.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.817,=C:\Users\ScaLseR.GDSK\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.613,=F:\project\webcam\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.790,F:\project\webcam\opFRfl.pas=F:\project\webcam\ofUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.055,F:\project\webcam\Unit1.dfm=F:\project\webcam\opFRfl.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.414,C:\Users\ScaLseR.GDSK\Documents\RAD Studio\Projects\Unit1.dfm=F:\project\webcam\webcam.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.753,=C:\Users\ScaLseR.GDSK\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.414,C:\Users\ScaLseR.GDSK\Documents\RAD Studio\Projects\Unit1.pas=F:\project\webcam\webcam.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.301,=F:\project\webcam\SignatureForm.pas</Transaction>
+    <Transaction>2014.01.28 11:37:31.079,F:\project\webcam\AviCap32Unit.pas=</Transaction>
+    <Transaction>2014.01.28 11:37:35.724,F:\project\webcam\CamCaptureUnit.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
